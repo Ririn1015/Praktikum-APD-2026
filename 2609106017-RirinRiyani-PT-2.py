@@ -10,7 +10,7 @@ pajak = total_bayar * 0.15
 total_bayar = total_bayar + pajak
 rata_rata = total_bayar / 6
 nim = 17
-boolean = nim < rata_rata
+bolean = nim < rata_rata
 
 print(barang_1)
 print(barang_2)
@@ -22,7 +22,7 @@ print(total_bayar)
 print(pajak)
 print(rata_rata)
 print(nim)
-print(boolean)
+print(bolean)
 
 barang = [barang_1, barang_2, barang_3, barang_4, barang_5, barang_6]
 
